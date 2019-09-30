@@ -222,7 +222,7 @@ def programa():
     global totalByteIPv4
     global totalByteIPv6
 
-    f = io.open('0001', 'r', newline='\n', encoding='utf-8')
+    f = io.open('0051', 'r', newline='\n', encoding='utf-8')
 
     for line in f:
 
